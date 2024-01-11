@@ -1,2 +1,2 @@
 # alura-plus
- Projeto do design da paixa do Alura+
+ Projeto do design da página do Alura+
